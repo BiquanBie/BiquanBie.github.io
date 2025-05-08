@@ -14,7 +14,7 @@ He received his Bachelor's degree from the Department of Artificial Intelligence
 
 He completed his undergraduate thesis on: ***Explainable Artificial-Intelligence-Based Legal Reasoning Systems***
 
-His research focuses on systematically integrating LLMs with **domain-specific knowledge** to build **verifiable automated applications** that address **precisely defined domain requirements**. Additionally, he explores the **cognitive processes** within LLMs through the lens of **comparable human intelligence**, employing psychological theories and **explainability techniques** to understand their reasoning.
+His research focuses on systematically integrating LLMs with **domain-specific knowledge** to build verifiable automated applications that address precisely defined domain requirements. Additionally, he explores the cognitive processes within LLMs through the lens of **comparable human intelligence**, employing psychological theories and explainability techniques to understand their reasoning.
 
 
 **Key Projects & Publications:**
@@ -33,7 +33,7 @@ A collaborative study with the HKUST(GZ) investigating human-compatible **anchor
 
 **Multi-Agent Framework for Automated Construction of Domain-Specific Large Language Models** (*Forthcoming on arXiv*):
 
-A joint effort with DLUT to develop an end-to-end multi-agent system for building specialized LLMs, automating **data synthesis**, **model training**, **downstream application building**.
+A joint effort with DLUT to develop an end-to-end multi-agent system for building specialized LLMs, automating (1)**data synthesis**, (2)**model training** and (3)**downstream application building**.
 
 Long-term Research Goals:
 ======
