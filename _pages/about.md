@@ -29,7 +29,7 @@ A collaborative project with CUPL focused on developing a deployable multi-agent
 
 **Research on Anchoring Effects in Large Language Models** (*Forthcoming on arXiv*):
 
-A collaborative study with the HKUST(GZ) investigating human-compatible **anchoring effect** in LLMs both internally and externally .
+A collaborative study with HKUST(GZ) investigating human-compatible **anchoring effect** in LLMs both internally and externally .
 
 **Multi-Agent Framework for Automated Construction of Domain-Specific Large Language Models** (*Forthcoming on arXiv*):
 
