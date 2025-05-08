@@ -20,15 +20,15 @@ His research focuses on systematically integrating LLMs with **domain-specific k
 **Key Projects & Publications:**
 =====
 Trustworthy Legal Reasoning Agent (Internal Testing): 
-====
+=====
 A collaborative project with CUPL focused on developing a reliable AI agent for legal reasoning.
 
 Research on Anchoring Effects in Large Language Models (Forthcoming on arXiv):
-====
+=====
 A collaborative study with the HKUST(GZ) investigating anchoring biases in LLMs.
 
 Multi-Agent Framework for Automated Construction of Domain-Specific Large Language Models (Forthcoming on arXiv):
-===
+====
 A joint effort with DLUT to develop an end-to-end multi-agent system for building specialized LLMs.
 
 Long-term Research Goals:
