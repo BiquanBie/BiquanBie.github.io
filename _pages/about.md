@@ -17,7 +17,7 @@ He completed his undergraduate thesis on: ***Explainable Artificial-Intelligence
 His research focuses on systematically integrating LLMs with **domain-specific knowledge** to build verifiable automated applications that address precisely defined domain requirements. Additionally, he explores the cognitive processes within LLMs through the lens of **comparable human intelligence**, employing psychological theories and explainability techniques to understand their reasoning.
 
 
-**Key Projects & Publications:**
+Key Projects & Publications:
 ====
 **2024**
 
