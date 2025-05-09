@@ -14,7 +14,7 @@ He received his Bachelor's degree from the Department of Artificial Intelligence
 
 He completed his undergraduate thesis on: ***Explainable Artificial-Intelligence-Based Legal Reasoning Systems***
 
-His research focuses on systematically integrating LLMs with **domain-specific knowledge** to build verifiable automated applications that address precisely defined domain requirements. Additionally, he explores the cognitive processes within LLMs through the lens of **comparable human intelligence**, employing psychological theories and explainability techniques to understand their reasoning.
+His research focuses on systematically integrating LLMs with **domain-specific knowledge** to build verifiable automated applications that address precisely defined domain requirements. Additionally, he explores the cognitive processes within LLMs through the lens of **human-compatible machine intelligence**, employing psychological theories and explainability techniques to understand their reasoning.
 
 
 Key Projects & Publications:
