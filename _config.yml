@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "black on black.png"
+  avatar           : "black on black_square.png"
   name             : "Biquan Bie (Alex)"
   pronouns         : # example: "she/her"  
   bio              : "What I cannot create, I do not understand."
