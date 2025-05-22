@@ -29,7 +29,7 @@ A collaborative project with CUPL focused on developing a deployable multi-agent
 
 **Research on Anchoring Effects in Large Language Models** (*Available on arXiv*):
 
-A collaborative study with HKUST(GZ) investigating a typical human-compatible cognitive bias **anchoring effect** in LLMs both internally and externally. 
+A collaborative study with HKUST(GZ) investigates a typical human-compatible cognitive bias **anchoring effect** in LLMs both internally and externally. 
 
 
 [An Empirical Study of the Anchoring Effect in LLMs: Existence, Mechanism, and Potential Mitigations](https://arxiv.org/abs/2505.15392)
