@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Independent Researcher** | **Large Language Models, AI for Law and Chemistry, LLM Interpretability**
+**Independent Researcher** | **Large Language Models, AI for Law and Chemistry, Trustworthy LLM, LLM Interpretability**
 
 Biquan Bie is an independent researcher focusing on the theoretical underpinnings and practical applications of **LLMs**. 
 He graduated from the Experimental High School Attached to Beijing Normal University (**SDSZ**) in 2020
