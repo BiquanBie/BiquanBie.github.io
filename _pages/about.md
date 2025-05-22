@@ -27,13 +27,15 @@ A collaborative project with CUPL focused on developing a deployable multi-agent
 
 **2025**
 
-**Research on Anchoring Effects in Large Language Models** (*Forthcoming on arXiv*):
+**Research on Anchoring Effects in Large Language Models** (*Available on arXiv*):
 
-A collaborative study with HKUST(GZ) investigating human-compatible **anchoring effect** in LLMs both internally and externally .
+A collaborative study with HKUST(GZ) investigating a typical human-compatible cognitive bias **anchoring effect** in LLMs both internally and externally.
+[An Empirical Study of the Anchoring Effect in LLMs: Existence, Mechanism, and Potential Mitigations](https://arxiv.org/abs/2505.15392)
+
 
 **Multi-Agent Framework for Automated Construction of Domain-Specific Large Language Models** (*Forthcoming on arXiv*):
 
-A joint effort with DLUT to develop an end-to-end multi-agent system for building specialized LLMs, automating (1) **data synthesis**, (2) **model training** and (3) **downstream application building**.
+A joint effort with DLUT to develop an end-to-end multi-agent system for building light-weighted specialized LLMs, automating (1) **data synthesis**, (2) **model training and monitoring** and (3) **downstream knowledge application**.
 
 Long-term Research Goals:
 ======
